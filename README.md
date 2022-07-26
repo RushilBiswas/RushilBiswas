@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RushilBiswas
-- 👀 I’m interested in ...
+- 👀 I’m interested in competitive programming,machine learning and web development
 - 🌱 I’m currently learning c programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - rushilbiswas21@gmail.com
